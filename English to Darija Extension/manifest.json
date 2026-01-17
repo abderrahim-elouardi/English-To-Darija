@@ -5,7 +5,6 @@
   "description": "Cette extension Google Chrome permet de traduire rapidement et facilement du texte de l’anglais vers l’arabe marocain (darija). Elle est idéale pour les utilisateurs qui souhaitent comprendre ou communiquer en darija tout en naviguant sur des sites en anglais. Grâce à une interface simple et intuitive, il suffit de sélectionner le texte à traduire ou de le saisir directement dans le popup pour obtenir instantanément sa traduction. L’extension utilise des algorithmes de traduction précis, tout en conservant le sens et le contexte des phrases.",
 
   "action": {
-    "default_popup": "index.html",
     "default_icon": {
       "16": "icon16.png",
       "48": "icon48.png",
